@@ -1,6 +1,6 @@
-# todo-list
+# ClojureScript todo-list
 
-This is the todo-list project.
+This is the ClojureScript todo-list project.
 
 ## Development mode
 
